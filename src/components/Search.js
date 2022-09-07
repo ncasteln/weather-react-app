@@ -2,7 +2,7 @@ const Search = (props) => {
   const { setLocation, getWeather } = props;
 
   return (
-    <form className="Search" >
+    <form className="Search">
       <h1>O Sole mio</h1>
       <h2>Simple weather React App</h2>
       <hr />
