@@ -22,11 +22,11 @@
 }
 .Search > div {
   display: flex;
+  flex-wrap: wrap;
   gap: 12px;
   width: 100%;
 }
 button.search {
-  width: 100%;
   padding: 6px 24px;
   border-radius: 6px;
   border: none;
